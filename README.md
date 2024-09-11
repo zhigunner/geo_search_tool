@@ -8,9 +8,9 @@ GeoSearchTool is a command-line utility that uses the OpenWeather Geocoding API 
 - Support for multiple locations in one request.
 
 ## Requirements
-- **Java 21**
-- **Maven**
-- **Internet connection** to access the OpenWeather API.
+- Java 21
+- Maven
+- Internet connection to access the OpenWeather API.
 
 ## Installation
 1. Clone the repository:
