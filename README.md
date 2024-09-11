@@ -1,6 +1,6 @@
-# GeoLocator Pro
+# GeoSearchTool
 
-GeoLocator Pro is a command-line utility that uses the OpenWeather Geocoding API to fetch geolocation data (latitude, longitude, place name) based on city names or ZIP codes within the United States.
+GeoSearchTool is a command-line utility that uses the OpenWeather Geocoding API to fetch geolocation data (latitude, longitude, place name) based on city names or ZIP codes within the United States.
 
 ## Features
 - Retrieve geographic data based on city and state names.
